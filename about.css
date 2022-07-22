@@ -1,0 +1,36 @@
+p {
+    color: #000000;
+    text-align: left;
+    font-family: Raleway, sans-serif;
+    font-size: .9rem;
+    padding: 2px;
+}
+
+
+
+h1 {
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospacepx;
+    color: #0f0f0f;
+
+}
+
+.family {
+
+    float: right;
+}
+
+.section1 {
+    margin: 5rem auto;
+    border-top: 1px solid #bbb;
+}
+
+.section1 {
+    display: block;
+}
+
+
+.bp {
+    border-radius: 20%;
+
+}
